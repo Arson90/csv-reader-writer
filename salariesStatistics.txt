@@ -1,0 +1,3 @@
+Number line 1 Sum: 25501,55 | Average: 5100,31
+Number line 2 Sum: 23350,00 | Average: 4670,00
+Number line 3 Sum: 21787,71 | Average: 4357,54
