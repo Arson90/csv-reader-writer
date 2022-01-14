@@ -55,7 +55,7 @@ Additionally, the program counts the sum and average data.
 * Download and install JDK
 * Set the JDK path on Windows
 ### Linux
-Follow this [link](#https://github.com/Arson90/installation-intellij-idea-and-jdk-linux) to see the instruction about installing necessery tools on Linux
+Follow this [link](https://github.com/Arson90/installation-intellij-idea-and-jdk-linux) to see the instruction about installing necessery tools on Linux
 ### Running Examples
 * Download the zip or clone the Git repository
 * Unzip the zip file to you projects directory
