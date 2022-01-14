@@ -4,6 +4,14 @@
 Writing a CSV file, reading a CSV file and writing data from CSV to txt file in Java using OpenCSV.
 Additionally, the program counts the sum and average data.
 
+## Overview
+* [Introducing](#introducing)
+* [Prerequisite](#prerequisite)
+* [Installing Tools](#installing-tools)
+* [Running Examples](#running-examples)
+* [Troubleshooting](#troubleshooting)
+* [Useful links](#useful-links)
+
 ## Introducing 
 ### Step by step
 1. This method is responsible for writing some example data to a CSV file.
@@ -61,6 +69,9 @@ Follow this link to see the instruction about installing necessery tools on Linu
   * Paste the link and click Clone
 * Right Click on the file and Run as Java Application
 
+## Troubleshooting
+Probably after openning the project you will have to set the JDK in IntelliJ IDEA.
+* Project structure → Project settings → Project → SDK → choose the right JDK version (1.8 or newer)
 ## Useful links
 * IntelliJ IDEA → https://www.jetbrains.com/idea/download/#section=windows
 * JDK → https://www.oracle.com/java/technologies/downloads/ or https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
